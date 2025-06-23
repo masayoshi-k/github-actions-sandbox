@@ -1,0 +1,22 @@
+{
+    "common": {
+        "assignees": ["masayoshi-k"]
+    },
+    "issues": [
+        {
+            "title": "Sample Issue 1",
+            "labels": ["bug", "good first issue"],
+            "body": "This is the body of the first sample issue."
+        },
+        {
+            "title": "Sample Issue 2",
+            "labels": ["enhancement"],
+            "body": "This is the body of the second sample issue."
+        },
+        {
+            "title": "Sample Issue 3",
+            "labels": ["question"],
+            "body": "This is the body of the third sample issue."
+        }
+    ]
+}
